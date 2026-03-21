@@ -1,5 +1,5 @@
 <h1>Wide Coverage Location</h1>
-<h2>Mais um projeto de landing page feito para praticar CSS, especificamente na trabalhar mais com a responsividade</h2>
+<h2>Mais um projeto de landing page feito para praticar CSS, especificamente em trabalhar mais com a responsividade</h2>
 <h3>Esse projeto foi feito com o objetivo de melhorar as minhas habilidades em CSS e responsividade. Isso foi possível graças as orientações do <a href="https://github.com/rodolfomori">Rodolfo Mori</a> da DevClub.</h3>
 <br>
 <h3>Tecnologias usadas</h3>
